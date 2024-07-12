@@ -20,14 +20,12 @@ jobs:
 
       - name: Install dependencies
         run: |
-          cd site
-          gem install bundler:2.3.26
-          bundle install
+          npm install
+          npm run jekkyll:install
 
       - name: Build site
         run: |
-          cd site
-          bundle exec jekyll build -d ../_site
+          npm start
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
