@@ -1,1 +1,1 @@
-Sitemap: https://matthewlbrown.com/vonge-jekyll-bookshop-template/sitemap.xml
+Sitemap: https://matthewlbrown.com/sitemap.xml
