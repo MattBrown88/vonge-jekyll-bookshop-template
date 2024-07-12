@@ -1,4 +1,6 @@
 title: Vonge
+baseurl: "/vonge-jekyll-bookshop-template"
+url: "https://mattbrown88.github.io"
 
 plugins:
   - jekyll-bookshop
