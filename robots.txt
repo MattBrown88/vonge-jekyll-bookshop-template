@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://mattbrown88.github.io/vonge-jekyll-bookshop-template/sitemap.xml
