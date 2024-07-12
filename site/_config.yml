@@ -1,5 +1,6 @@
 title: Vonge
-baseurl: "/vonge-jekyll-bookshop-template"
+# baseurl: "/vonge-jekyll-bookshop-template"
+baseulr: "/"
 url: "https://matthewlbrown.com"
 
 plugins:
